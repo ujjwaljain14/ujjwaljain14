@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwaljain14" alt="ujjwaljain14" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/uj__ujjwal" target="blank"><img src="https://img.shields.io/twitter/follow/uj__ujjwal?logo=twitter&style=for-the-badge" alt="uj__ujjwal" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **ujjwaljain.u14@gmail.com**
